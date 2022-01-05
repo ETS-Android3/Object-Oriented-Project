@@ -11,5 +11,5 @@ Nam tao pu pla android application using Android Studio
 <img src="images/PageRandom.png" width="300" height="500"></img>
 <h5>5. Page 3</h5><hr style"color:gray;">
 <img src="images/Page3.png" width="300" height="500"></img>
-<h5>6. Page 1 Exit</h5><hr style"color:gray;">
+<h5>6. Page Exit</h5><hr style"color:gray;">
 <img src="images/Page1Exit.png" width="300" height="500"></img>

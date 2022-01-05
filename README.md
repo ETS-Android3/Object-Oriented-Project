@@ -2,7 +2,7 @@
 Nam tao pu pla android application using Android Studio
 
 <h5>1. Page ICON<h5><hr style"color:gray;">
-<img src="images/PageIcon.png" width="300" height="600";></img>
+<img src="images/PageIcon.png" width="300" height="500";></img>
 <h5>2. Page 1<h5> <br><br><hr style"color:gray;">
 <img src="images/Page 1.png"></img>
 <h5>3. Page 2<h5> <br><br><hr style"color:gray;"
